@@ -5,6 +5,6 @@ Question: **What is the most interesting topic covered in your domain this quart
 
 The most interesting topic that was covered in my domain this quarter was the interpretability of LLMs.
 While I use ChatGPT, I don't acknowledge the credibility of these models. From the perspective of say a 
-lawyer or a doctor who is utilizing this type of technology, it was is imperative to be able to understand
+lawyer or a doctor who is utilizing this type of technology, it is important to be able to understand
 the biases of these models. Since models of this size are essentially a blackbox, I find this topic of 
-model interpretability quite interesting.
+model interpretability quite interesting. 
